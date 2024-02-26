@@ -1,5 +1,6 @@
 ## AI Service > Pose Estimation > 개요
 
+
 * Pose Estimation은 NHN Cloud의 Human Pose Estimation(HPE) 기술을 이용해 이미지에서 사람 영역을 인식하고, 영역별 인체 관절을 추출하는 기능을 제공합니다.
 * 추출된 인체의 관절은 자세를 비교하는 AI 홈 트레이닝, AI 운동 코칭 서비스와 같은 다양한 분야에서 활용할 수 있습니다.
 
